@@ -10,3 +10,5 @@
   <p>🔷 quantum computing</p>
   <p>🔷 software engineering</p>
 
+
+<a href=#><img src="contributions.svg"></a>

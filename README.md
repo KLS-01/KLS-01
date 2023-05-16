@@ -15,12 +15,16 @@
   <p>🔷 quantum computing</p>
   <p>🔷 software engineering</p>
 
-<p>
-  &nbsp;<img
+<p align="center">
+  &nbsp;
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=kls-01&show_icons=true&locale=en&theme=gruvbox"
     alt="kls-01"
   />
+  </br>
+  </br>
+  <img src="https://www.codewars.com/users/KLS-01/badges/large"/>
 </p>
 
 <a href=#><img src="contributions.svg"></a>
